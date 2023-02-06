@@ -17,7 +17,11 @@ https://github.com/aochunyan/m5U-SVM.git
 # 3. Requirements
 Before running, please make sure the following packages are installed in Python environment:
 
-joblib==1.1.0 numpy==1.23.3 pandas==1.4.4 scikit-learn==1.1.2 gensim==3.4.0
+joblib==1.1.0 
+numpy==1.23.3 
+pandas==1.4.4 
+scikit-learn==1.1.2 
+gensim==3.4.0
 
 # 4. Running
 Changing working dir to m5USVM, and then running the following command:
