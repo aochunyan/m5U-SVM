@@ -18,9 +18,13 @@ https://github.com/aochunyan/m5U-SVM.git
 Before running, please make sure the following packages are installed in Python environment:
 
 joblib==1.1.0 
-numpy==1.23.3 
-pandas==1.4.4 
-scikit-learn==1.1.2 
+
+numpy==1.23.3
+
+pandas==1.4.4
+
+scikit-learn==1.1.2
+
 gensim==3.4.0
 
 # 4. Running
